@@ -12,7 +12,7 @@ elif operand == '-':
     print(f'Difference of {operator_1} and {operator_2} : {operator_1-operator_2}')
 
 elif operand == '*':
-    print(f'Difference of {operator_1} and {operator_2} : {operator_1*operator_2}')
+    print(f'Multiplication of {operator_1} and {operator_2} : {operator_1*operator_2}')
 
 elif operand == '/':
     print(f'Division of {operator_1} and {operator_2} : {operator_1/operator_2}')
